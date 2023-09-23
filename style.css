@@ -1,0 +1,67 @@
+body {
+    color: #fcf8f8;
+    background-color: #89CFF0;
+    line-height: 1.5;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 15px;
+}
+.Paticka
+{
+    text-align: center;
+}
+
+.Foto
+{
+    border-radius: 20px;
+    width: 150px;
+}
+.Hlavicka
+ {
+    text-align: center;
+    
+}
+.Kontakt
+{
+    float: none;
+    padding: 22px;
+    box-sizing: content-box;
+    margin: 2%;
+    border: none;
+    border-radius: 20px;
+}
+.Vzdelani 
+{float: none;
+    padding: 22px;
+    box-sizing: content-box;
+    margin: 2%;
+    border: none;
+    border-radius: 20px;
+}
+
+.Zkusenosti 
+{float: none;
+    padding: 22px;
+    box-sizing: content-box;
+    margin: 2%;
+    border: none;
+    border-radius: 20px;
+}
+
+.Vzdelani,
+.Zkusenosti,
+.Kontakt {
+    background-color: #fcf8f8;
+    color: #484141;
+}
